@@ -21,7 +21,7 @@
     2. The array elements should be integers. 
     3. The function should loop through both arrays and add the input to the new array if:
       - it is an odd number
-      -that number is not already contained in the new array
+      - that number is not already contained in the new array
     4. The function should return the new array in ascending order.
 
   - Specifications
