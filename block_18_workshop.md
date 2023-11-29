@@ -1,7 +1,7 @@
 # Block 18 Workshop
 
 ## Unit Tests
-1. multiplication()
+1. ***multiplication()***
   - Expectations
     1. The function should take in two numbers and return the product of those two numbers as a number. 
     2. The function should return an error if the user gives more than two parameters.
@@ -15,7 +15,7 @@
     4. Expect multiplication(2) to be **equal to 2**
     5. Expect multiplication("2", "3") to be an **error**
 
-2. concatOdds()
+2. ***concatOdds()***
   - Expectations
     1. The function should take in two arrays and output a new array.
     2. The array elements should be integers. 
